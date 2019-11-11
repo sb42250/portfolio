@@ -29,6 +29,15 @@ html{
     color:black;
     font-weight: 400;
   }
+.about{
+    color:black;
+  }
+.home{
+    color:black;
+  }
+.resume{
+    color:black;
+  }
   .content{
     grid-area:content;
   }
